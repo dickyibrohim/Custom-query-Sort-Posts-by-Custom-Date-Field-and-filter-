@@ -13,5 +13,5 @@ Support this project, Buy Me a Coffee at ko-fi.com or PayPal<br>
 [![name](https://user-images.githubusercontent.com/31910468/202841156-4e770c3f-7583-425c-9fed-e1ccfdac9a68.png)](https://paypal.me/cleovapay)
 
 ## How to use:
-Qustom Query ID= event_sort_date
-Custom field name (date type): anfangsdatum
+- Qustom Query ID= event_sort_date
+- Custom field name (date type): anfangsdatum
