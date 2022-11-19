@@ -1,4 +1,4 @@
-/* Sort Posts by Custom Date Field */
+/* Custom Query to Sort and filter POST (Elementor PRO Builder) by Custom field (Date type) */
 add_action( 'elementor/query/event_sort_date', function( $query ) {
 $query->set( 'meta_key', 'anfangsdatum' );
 $query->set( 'orderby', 'meta_value_num' );
