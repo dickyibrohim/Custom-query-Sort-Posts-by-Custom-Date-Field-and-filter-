@@ -1,5 +1,5 @@
 # Custom Query to Sort and filter POST (Elementor PRO) by Custom field (Date type)
-Custom Query to sort POSTs by custom field (date) and hide POSTs that have passed the specified date in the custom field in the front end.
+Custom Query to sort POSTs by custom field (date) and hide POSTs that have passed the specified date in a custom field on the front end.
 
 ### Hi there 👋
 - 🔭 I’m currently managing PT. CLEOVA INOVASI TEKNOLOGI
